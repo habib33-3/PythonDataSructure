@@ -23,5 +23,11 @@
 <li>Greedy Algorithm</li>
 <ul>
 <li>Mice into holes</li>
+<li>Egyptian Fraction</li>
+</ul>
+<li>Dynamic Programming</li>
+<ul>
+<li>Ugly Numbers</li>
+<li>Travel Salesman Problem</li>
 </ul>
 </ol>
